@@ -2,8 +2,6 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from pprint import pprint
 import numpy as np
-import matplotlib.pyplot as plt
-from scipy.interpolate import spline
 
 INPUT='../trace_dot/traces_2034_refine.dot'
 OUTPUT='../trace_dot/traces_2034_steps.jpg'
